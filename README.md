@@ -8,7 +8,7 @@ Regex is necessary for analysts and data extractors (RPA and Web Scraping), as i
 
 ## Query tables:
 
-![Metacaracter](images/metacaracter.png)
+![Metacaracter](images/metacharacters.png)
 ![Joints](images/joints.png)
 ![Metacaracter](images/lookaround.png)
 ![Flags](images/flags.png)
